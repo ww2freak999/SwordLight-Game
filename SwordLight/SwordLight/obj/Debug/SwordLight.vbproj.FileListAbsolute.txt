@@ -1,0 +1,11 @@
+c:\users\matthew\documents\visual studio 2013\Projects\SwordLight\SwordLight\bin\Debug\SwordLight.exe.config
+C:\Users\Matthew\Documents\GitHub\SwordLight-Game\SwordLight\SwordLight\bin\Debug\SwordLight.exe.config
+C:\Users\Matthew\Documents\GitHub\SwordLight-Game\SwordLight\SwordLight\bin\Debug\SwordLight.exe
+C:\Users\Matthew\Documents\GitHub\SwordLight-Game\SwordLight\SwordLight\bin\Debug\SwordLight.pdb
+C:\Users\Matthew\Documents\GitHub\SwordLight-Game\SwordLight\SwordLight\bin\Debug\SwordLight.xml
+C:\Users\Matthew\Documents\GitHub\SwordLight-Game\SwordLight\SwordLight\obj\Debug\SwordLight.Form1.resources
+C:\Users\Matthew\Documents\GitHub\SwordLight-Game\SwordLight\SwordLight\obj\Debug\SwordLight.Resources.resources
+C:\Users\Matthew\Documents\GitHub\SwordLight-Game\SwordLight\SwordLight\obj\Debug\SwordLight.vbproj.GenerateResource.Cache
+C:\Users\Matthew\Documents\GitHub\SwordLight-Game\SwordLight\SwordLight\obj\Debug\SwordLight.exe
+C:\Users\Matthew\Documents\GitHub\SwordLight-Game\SwordLight\SwordLight\obj\Debug\SwordLight.xml
+C:\Users\Matthew\Documents\GitHub\SwordLight-Game\SwordLight\SwordLight\obj\Debug\SwordLight.pdb
